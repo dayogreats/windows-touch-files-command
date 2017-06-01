@@ -6,7 +6,7 @@ Follow these steps If you would like to do touch a file like `filename.[file_ext
 
 
 #STEP 1
-* Git clone `https://`
+* Git clone `https://github.com/dayogreats/windows-touch-files-command.git`
 * Navigate to this path in your system `C:\Windows\System32`
 * Copy `touch.bat`file only and paste it in the system path above
 * Or you can also copy `touch.bat` to your like `C:\touch.bat` and then add it to your system environment path
